@@ -1,0 +1,30 @@
+/* * represents universal selector */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Kdam+Thmor+Pro&display=swap');
+*{
+padding: 0;
+margin: 0;
+}
+
+body{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+.para-class{
+  background: red;  
+}
+/* .image2-class{
+    background: green;
+} */
+.image1-class{
+    background: yellowgreen;
+}
+
+#img-2-div{
+    background: purple;
+}
+
+img{
+    width: 15%;
+    height: 20vh;
+}
